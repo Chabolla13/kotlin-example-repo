@@ -1,0 +1,5 @@
+fun reverseString(s: String) = s.reversed()
+
+fun main() {
+    println(reverseString("Hello"))
+}
